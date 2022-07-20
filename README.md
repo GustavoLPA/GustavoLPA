@@ -2,9 +2,7 @@
 <div align=center>
 
 [![GustavoLPA GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLPA&show_icons=true&theme=codeSTACKr&count_private=true)](https://github.com/GustavoLPA/github-readme-stats)
-
 </div>
-
 
 #
 ## Tecnologias
